@@ -20,7 +20,7 @@ quatro tipos: adenina, timina, citosina ou guanina.
 através de 4 letras: A, T, C ou G.
  
 Neste estudo de caso, queremos avaliar se estruturas com funções parecidas (estamos usando sequências de RNA ribossomal)
-de organismos diferentes têm diferenças. Para isso vamos avaliar a quantidade de pares de nucleotídeos.
+de organismos diferentes têm diferenças. Para isso avaliamos a quantidade de pares de nucleotídeos.
  
  ## Dados utilizados:
  - Human 18S rRNA gene, complete
