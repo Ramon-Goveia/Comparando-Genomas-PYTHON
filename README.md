@@ -21,7 +21,7 @@ através de 4 letras: A, T, C ou G.
  
 Neste estudo de caso, queremos avaliar se estruturas com funções parecidas (estamos usando sequências de RNA ribossomal)
 de organismos diferentes têm diferenças. Para isso avaliamos a quantidade de pares de nucleotídeos.
- 
+
 ## Dados utilizados:
  - Human 18S rRNA gene, complete
  
@@ -33,7 +33,7 @@ de organismos diferentes têm diferenças. Para isso avaliamos a quantidade de p
 
 #
 
-### Como resultado final, geraremos uma figura que compara os DNAs visualmente.
+### Como resultado final, geramos uma figura que compara os DNAs visualmente.
 
 
 ![](https://github.com/Ramon-Goveia/Comparando-Genomas-PYTHON/blob/master/result.png)
